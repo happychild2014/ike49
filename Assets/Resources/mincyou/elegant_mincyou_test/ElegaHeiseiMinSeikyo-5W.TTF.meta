@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a8e2bc70a8d25964ba7c34c8683f03e9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ElegantHeiseiMinchoSeikyo-5
+  fontNames:
+  - ElegantHeiseiMinchoSeikyo-5
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
