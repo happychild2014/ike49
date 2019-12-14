@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: happychild
   productName: "\u30A4\u30B149\u307F\u304F\u3058"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -70,7 +70,7 @@ PlayerSettings:
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
-  Force IOS Speakers When Recording: 0
+  Force IOS Speakers When Recording: 1
   deferSystemGesturesMode: 0
   hideHomeButton: 0
   submitAnalytics: 1
@@ -154,6 +154,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: jp.happychild.ike49mikuji
     Standalone: com.Company.ProductName
+    iOS: jp.happychild.ikemen49
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -170,7 +171,7 @@ PlayerSettings:
   keepLoadedShadersAlive: 0
   StripUnusedMeshComponents: 1
   VertexChannelCompressionMask: 4054
-  iPhoneSdkVersion: 988
+  iPhoneSdkVersion: 989
   iOSTargetOSVersionString: 8.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
@@ -229,7 +230,7 @@ PlayerSettings:
   metalEditorSupport: 1
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 0
-  appleDeveloperTeamID: 
+  appleDeveloperTeamID: happychild
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
   iOSManualSigningProvisioningProfileType: 0
